@@ -1,0 +1,27 @@
+# Mobile App Ratios Calculator
+
+## Overview
+The Mobile App Ratios Calculator is a C++ application designed to calculate and display the ratios of odd numbers, even numbers, and numbers divisible by three in a given list of integers. This project is a useful tool for analyzing numerical data, providing insights into the distribution of various types of numbers within an array.
+
+## Features
+- Input the number of elements.
+- Enter a list of space-separated integers.
+- Calculate and display:
+  - Ratio of odd numbers
+  - Ratio of even numbers
+  - Ratio of numbers divisible by three
+- Output results with six decimal places for precision.
+
+## Getting Started
+
+### Prerequisites
+- A C++ compiler (e.g., `g++`)
+- A terminal or command line interface
+
+### Installation
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/MOBILE-APP.git
+
+Navigate into the project directory:
+cd MOBILE-APP
